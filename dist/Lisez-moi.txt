@@ -1,0 +1,3 @@
+Nous avons rencontré un problème de lecture d'image depuis le fichier .jar.
+Le fichier .jar n'arrive pas accéder au dossier interne JeuDeCarte, c'est pourquoi
+nous l'avons sorti pour pouvoir l'éxécuter.
